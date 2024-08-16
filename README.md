@@ -13,3 +13,7 @@ API üzerinden sildiğinden dolayı sniperlara yakalanmamaktadır ancak api dinl
 # İletişim : 
 
 discord.gg/1966 -> **@nightsocial**
+
+# Fotoğraf :
+
+![image (10)](https://github.com/user-attachments/assets/9a0b2cbe-3de1-4cdb-9f4a-c79552749d66)
