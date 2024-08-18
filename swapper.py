@@ -13,7 +13,7 @@ def main():
     api.update_guild_vanity_url(GUILD_ID, VANITY_URL)
 
 class DiscordAPI:
-    BASE_URL = "https://discord.com/api/v10"
+    BASE_URL = "https://discord.com/api/v8"
 
     def __init__(self, token, webhook_url):
         self.token = token
